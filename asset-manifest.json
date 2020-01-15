@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sentry-examplegit/static/css/main.d1b05096.chunk.css",
-    "main.js": "/sentry-examplegit/static/js/main.a50da519.chunk.js",
-    "main.js.map": "/sentry-examplegit/static/js/main.a50da519.chunk.js.map",
-    "runtime-main.js": "/sentry-examplegit/static/js/runtime-main.fd1eec94.js",
-    "runtime-main.js.map": "/sentry-examplegit/static/js/runtime-main.fd1eec94.js.map",
-    "static/js/2.c0470ac0.chunk.js": "/sentry-examplegit/static/js/2.c0470ac0.chunk.js",
-    "static/js/2.c0470ac0.chunk.js.map": "/sentry-examplegit/static/js/2.c0470ac0.chunk.js.map",
-    "index.html": "/sentry-examplegit/index.html",
-    "precache-manifest.1546b43c2aaf7b3fd978637cd3ef2816.js": "/sentry-examplegit/precache-manifest.1546b43c2aaf7b3fd978637cd3ef2816.js",
-    "service-worker.js": "/sentry-examplegit/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/sentry-examplegit/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.c0470ac0.chunk.js.LICENSE": "/sentry-examplegit/static/js/2.c0470ac0.chunk.js.LICENSE"
+    "main.css": "/sentry-example/static/css/main.d1b05096.chunk.css",
+    "main.js": "/sentry-example/static/js/main.78419c12.chunk.js",
+    "main.js.map": "/sentry-example/static/js/main.78419c12.chunk.js.map",
+    "runtime-main.js": "/sentry-example/static/js/runtime-main.c801e403.js",
+    "runtime-main.js.map": "/sentry-example/static/js/runtime-main.c801e403.js.map",
+    "static/js/2.c0470ac0.chunk.js": "/sentry-example/static/js/2.c0470ac0.chunk.js",
+    "static/js/2.c0470ac0.chunk.js.map": "/sentry-example/static/js/2.c0470ac0.chunk.js.map",
+    "index.html": "/sentry-example/index.html",
+    "precache-manifest.27ebc176547e79eaea58b2462b54b18c.js": "/sentry-example/precache-manifest.27ebc176547e79eaea58b2462b54b18c.js",
+    "service-worker.js": "/sentry-example/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/sentry-example/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c0470ac0.chunk.js.LICENSE": "/sentry-example/static/js/2.c0470ac0.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd1eec94.js",
+    "static/js/runtime-main.c801e403.js",
     "static/js/2.c0470ac0.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.a50da519.chunk.js"
+    "static/js/main.78419c12.chunk.js"
   ]
 }
